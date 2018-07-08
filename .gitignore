@@ -1,3 +1,9 @@
+.DS_Store
+.classpath
+.project
+.settings
+.tern-project
+
 target/
 pom.xml.tag
 pom.xml.releaseBackup
